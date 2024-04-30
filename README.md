@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning NextJS & TailwindCSS
+- 🌱 React, NextJS & TailwindCSS lover !
 - 👯 I’m looking to collaborate on **high value projects**
 - 🌐 Go check my new website : [seawebstudio.com](https://seawebstudio.com)  !
 - 🎨 Go check my portfolio on : [portfolio.seawebstudio.com](https://seawebstudio.com)
